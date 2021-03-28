@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.Time-Background{
+    padding:0;
+    margin: 0;
+    background-color: aqua;
+    display: flex;
+    text-align: center;
+    height: 39rem;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+  
+}
+.sub-background{
+    background-color: rgb(125, 255, 255);
+    width: 50rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    border-radius: 10rem;
+    border: solid 10px rgba(255, 255, 255, 0.555);
+
+}
